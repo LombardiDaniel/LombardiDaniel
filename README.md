@@ -1,5 +1,5 @@
 <div align="center">
- <h1><img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" width="90px">, I'm Daniel</h1>
+ <h1><img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" style="height:2em;">, I'm Daniel</h1>
 </div>
 
 <br>
@@ -30,11 +30,8 @@
 
 #### Tech stacks I'm currently using:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-
 <code><a href="https://www.docker.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
-
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 <br>
