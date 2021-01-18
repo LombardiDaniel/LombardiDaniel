@@ -1,16 +1,16 @@
 <div align="center">
- <h1><img src="/static/hi.gif" height="80px">, I'm Daniel</h1>
+ <h1><img src="/static/icons/hi.gif" height="80px">, I'm Daniel</h1>
 </div>
 
 <br>
 
 <div align="center">
  <a href="https://lombardi-daniel-o.medium.com" target="_blank">
-   <img align="center" alt="Daniel Lombardi | Medium" width="35px" src="/static/icons/medium.svg" \>
+   <img align="center" alt="Daniel Lombardi | Medium" width="35px" src="https://img.icons8.com/ios/32/000000/medium-logo.png" \>
    </a>
 
   <a href="https://www.linkedin.com/in/daniel-lombardi/" target="_blank">
-    <img align="center" alt="Daniel Lombardi | LinkedIn" width="35px" src="/static/icons/linkedin.svg" \>
+    <img align="center" alt="Daniel Lombardi | LinkedIn" width="35px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" \>
     </a>
 
   <a href="https://www.linkedin.com/in/daniel-lombardi/" target="_blank">
