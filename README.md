@@ -1,5 +1,5 @@
 <div align="center">
- <h1><img src="/static/hi.gif" height="80px">, I'm Daniel</h1>
+ <h1><img src="/static/icons/hi.gif" height="80px">, I'm Daniel</h1>
 </div>
 
 <br>
