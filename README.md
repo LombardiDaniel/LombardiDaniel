@@ -28,13 +28,12 @@
 
 <br>
 
-#### Tech stacks I'm currently using:
+#### Techs I'm currently using:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://www.docker.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://www.cplusplus.com" target="_blank"><img height="50" src="https://simpleicons.org/icons/cplusplus.svg"></a></code>
 <br>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=LombardiDaniel&count_private=true&show_icons=true&theme=default)
