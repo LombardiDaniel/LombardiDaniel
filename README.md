@@ -36,7 +36,7 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=LombardiDaniel&count_private=true&show_icons=true&theme=default)
+![stats](https://github-readme-stats.vercel.app/api?username=LombardiDaniel&count_private=true&show_icons=true&theme=slateorange)
 
 
 ### Sirva-se
