@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-    <h3>Full-Stack Developer |  São Paulo, BR </h3>
+    <h3>EngComp |  São Paulo, BR </h3>
 </div>
 
 <br>
