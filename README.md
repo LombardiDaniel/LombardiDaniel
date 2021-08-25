@@ -7,10 +7,10 @@
 
 **languages and tools i use the most:**
 
-<img height="40" src="https://img.icons8.com/dusk/64/000000/python.png">
-<img height="40" src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png">
-<img height="40" src="https://img.icons8.com/dusk/64/000000/docker.png">
-<img height="40" src="https://img.icons8.com/dusk/64/000000/console.png">
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/docker.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/console.png"></code>
 
 <br>
 <br>
