@@ -19,5 +19,5 @@
 
 
 
-### Sirva-se : <img height="20" src="https://img.icons8.com/dusk/64/000000/server.png">
+### <img height="25" src="https://img.icons8.com/dusk/64/000000/server.png"> Sirva-se :
 Dê uma olhada no meu perfil do [Medium](https://lombardi-daniel-o.medium.com), onde falo um pouco sobre como servir projetos pessoais com um computador velho, fazendo um servidor ☁️ caseiro!
