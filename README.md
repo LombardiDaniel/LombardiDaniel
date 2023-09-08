@@ -7,9 +7,7 @@
 
 **languages and tools i use the most:**
 
-<code><img height="40" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
-<code><img height="40" src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png"></code>
-<code><img height="40" src="https://img.icons8.com/dusk/64/000000/docker.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=py,docker,kubernetes,ansible,rabbitmq,kafka,github,kafka,nginx,mongodb,redis,postgres)](https://skillicons.dev)
 <!-- `cute color` -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=LombardiDaniel&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
