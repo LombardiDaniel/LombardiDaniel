@@ -3,6 +3,8 @@
 
 <h3>EngComp - UFSCar | São Paulo, BR :rocket:</h3>
 
+Founder [@patos](https://patos.dev) 🦆
+
 <br>
 
 **languages and tools i use the most:**
