@@ -5,7 +5,7 @@
 
 Founder [@patos](https://patos.dev/) 🦆
 
-SWE Intern [@google](https://www.google.com/)
+SWE [@google](https://www.google.com/)
 
 <br>
 
