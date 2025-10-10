@@ -3,9 +3,9 @@
 
 <h3>EngComp - UFSCar | São Paulo, BR :rocket:</h3>
 
-Founder [@patos](https://patos.dev/) 🦆
-
 SWE [@google](https://www.google.com/)
+
+Founder [@patos](https://patos.dev/) 🦆
 
 <br>
 
