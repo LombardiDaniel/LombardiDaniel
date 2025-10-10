@@ -1,7 +1,7 @@
 <h1><img src="/static/icons/hi.gif" height="80px">, I'm Daniel <img src="https://img.icons8.com/fluency/48/000000/funny-zebra.png"/></h1>
 
 
-<h3>EngComp - UFSCar | São Paulo, BR :rocket:</h3>
+<h3>Computer Engineer - UFSCar | São Paulo, BR</h3>
 
 SWE [@google](https://www.google.com/)
 
